@@ -1,0 +1,4 @@
+os: Windows
+language: java
+jdk: oraclejdk8
+
